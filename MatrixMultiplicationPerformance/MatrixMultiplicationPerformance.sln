@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiplicationPerformance", "MatrixMultiplicationPerformance.csproj", "{22F2669D-82A1-4A39-9439-18A5B9BCBBEF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonPlotting", "..\PythonPlottin\PythonPlotting.pyproj", "{F7E48426-E86D-46E0-B888-B5DC5BEE3E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F2669D-82A1-4A39-9439-18A5B9BCBBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F2669D-82A1-4A39-9439-18A5B9BCBBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F2669D-82A1-4A39-9439-18A5B9BCBBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F2669D-82A1-4A39-9439-18A5B9BCBBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E48426-E86D-46E0-B888-B5DC5BEE3E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E48426-E86D-46E0-B888-B5DC5BEE3E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D869E9FB-AA3F-48AC-A3DE-CAB172244B49}
+	EndGlobalSection
+EndGlobal
